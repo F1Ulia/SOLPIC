@@ -16,7 +16,7 @@
 program new_year
 implicit none
 
-integer, parameter:: a_size = 15
+integer, parameter:: a_size = 10
 integer:: a(a_size)
 integer:: i , j, k, t
 real:: n
