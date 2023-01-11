@@ -1,4 +1,4 @@
-# SOLPIC (Simulator Of Light Propagagtion In Composite)
+# SOLPIC (Simulator Of Light Propagagtion In Composites)
 
 The program manual is solpic_manual.pdf. Please read it for the installation instructions.
 File Theoretical_background of SOLPIC.pdf contains the physical and numerical model used
