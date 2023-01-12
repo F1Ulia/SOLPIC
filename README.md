@@ -2,9 +2,12 @@
 
 The program manual is solpic_manual.pdf. Please read it for the installation instructions.
 File Theoretical_background_of_SOLPIC.pdf contains the physical and numerical model used
-for calculations. 
+for calculations, please also check our scientific paper which describes this model and 
+gives an example of its application:
 
-The program is contained is solpic.tar. File solpic.tar containts the installation files, 
+http://arxiv.org/abs/2301.04531 
+
+The program is contained is solpic.zip. File solpic.zip containts the installation files, 
 in additon, it contains sample input files with parameters used in Section 4 of the 
 theoretical background.
 
